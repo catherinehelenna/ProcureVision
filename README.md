@@ -20,14 +20,14 @@ The data is taken from the National Food Agency website. The National Food Agenc
 https://panelharga.badanpangan.go.id/harga-eceran
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Conclusion and Business Impacts**
-<u>Conclusion</u>
-In conclusion, the analysis results indicate that the polynomial regression model is the most suitable for predicting the price of Beras Premium (premium rice). This conclusion is drawn from the superior performance of the polynomial regression model in terms of MAE and RMSE compared to other models tested.
+**Conclusion and Business Impacts**  
+ <u>Conclusion</u>  
+ In conclusion, the analysis results indicate that the polynomial regression model is the most suitable for predicting the price of Beras Premium (premium rice). This conclusion is drawn from the superior performance of the polynomial regression model in terms of MAE and RMSE compared to other models tested.  
 
-<u>Business Impacts</u>
-Rumah Makan Hati Tenteram can utilize this App to forecast the prices of Premium Rice in the coming months, enabling more precise budgeting strategies considering the Cost of Goods Sold (COGS).
+ <u>Business Impacts</u>  
+ Rumah Makan Hati Tenteram can utilize this App to forecast the prices of Premium Rice in the coming months, enabling more precise budgeting strategies considering the Cost of Goods Sold (COGS). 
 
-When prices are predicted to increase in the future and surpass the buffer limit of the COGS budget, management needs to take adaptive measures.
+  When prices are predicted to increase in the future and surpass the buffer limit of the COGS budget, management needs to take adaptive measures.
 ProcureVision isn't limited to rice alone but can also be applied to other raw materials as needed.
 Users feedback will be valuable input for enhancing this application.
 
