@@ -1,6 +1,8 @@
 # ProcureVision
 A collaborative data science project about predicting rice price in Java Island to assist budgeting for SMEs in F&B sector.
-
+- Data Engineer: Bagus, Qais
+- Data Analyst: Aqilla, Catherine
+- Data Scientist: Rahardiansyah
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Background**
 
@@ -20,11 +22,13 @@ The data is taken from the National Food Agency website. The National Food Agenc
 https://panelharga.badanpangan.go.id/harga-eceran
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Conclusion and Business Impacts**  
- <u>Conclusion</u>  
+**Result, Conclusion,  and Business Impacts**  
+ <ins>Model Deployment on HuggingFace</ins>  
+  https://huggingface.co/spaces/qaisahmad/ftds-rmt27-FinalProject
+ <ins>Conclusion</ins>  
  In conclusion, the analysis results indicate that the polynomial regression model is the most suitable for predicting the price of Beras Premium (premium rice). This conclusion is drawn from the superior performance of the polynomial regression model in terms of MAE and RMSE compared to other models tested.  
 
- <u>Business Impacts</u>  
+ <ins>Business Impacts</ins>  
  Rumah Makan Hati Tenteram can utilize this App to forecast the prices of Premium Rice in the coming months, enabling more precise budgeting strategies considering the Cost of Goods Sold (COGS). 
 
   When prices are predicted to increase in the future and surpass the buffer limit of the COGS budget, management needs to take adaptive measures.
