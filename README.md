@@ -24,7 +24,8 @@ https://panelharga.badanpangan.go.id/harga-eceran
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Result, Conclusion,  and Business Impacts**  
  <ins>Model Deployment on HuggingFace</ins>  
-  https://huggingface.co/spaces/qaisahmad/ftds-rmt27-FinalProject
+  https://huggingface.co/spaces/qaisahmad/ftds-rmt27-FinalProject  
+  
  <ins>Conclusion</ins>  
  In conclusion, the analysis results indicate that the polynomial regression model is the most suitable for predicting the price of Beras Premium (premium rice). This conclusion is drawn from the superior performance of the polynomial regression model in terms of MAE and RMSE compared to other models tested.  
 
