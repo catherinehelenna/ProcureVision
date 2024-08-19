@@ -23,6 +23,7 @@ https://panelharga.badanpangan.go.id/harga-eceran
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Result, Conclusion,  and Business Impacts**  
+
  <ins>Model Deployment on HuggingFace</ins>  
   https://huggingface.co/spaces/qaisahmad/ftds-rmt27-FinalProject  
   
